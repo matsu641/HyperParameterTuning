@@ -1,3 +1,3 @@
 - HyperParameterTuning
-      - Holdout Method
-      - Grid Search
+- Holdout Method
+- Grid Search
